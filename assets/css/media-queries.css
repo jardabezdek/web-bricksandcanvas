@@ -50,11 +50,11 @@
 
 @media (max-width: 767px) {
   .navbar.navbar-no-bg {
-    background: #1D3557;
+    background: #FFC914;
   }
 
   .navbar-dark .navbar-toggler {
-    border-color: #1D3557;
+    border-color: #FFC914;
   }
 
   .navbar-dark .navbar-toggler:focus {
@@ -133,7 +133,9 @@
 }
 
 @media (max-width: 415px) {
-  h1, h2 {
+
+  h1,
+  h2 {
     font-size: 32px;
   }
 }
